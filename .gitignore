@@ -1,0 +1,8 @@
+data/raw/
+data/processed/
+artifacts/test.csv
+artifacts/processed_dataset.csv
+mlflow.db
+logs/
+__pycache__/
+*.pyc
