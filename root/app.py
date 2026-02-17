@@ -35,7 +35,6 @@ PatrolIQ is an AI-powered crime hotspot intelligence system built using:
 - **K-Means Clustering** for hotspot detection  
 - **DBSCAN & Hierarchical Clustering** (offline evaluation)  
 - **PCA (Principal Component Analysis)** for feature reduction  
-- **Silhouette Score & Davies-Bouldin Index** for model evaluation  
 
 ---
 
@@ -46,7 +45,6 @@ Use the sidebar to explore:
 1. **Geographic Hotspots** – Crime cluster map  
 2. **Temporal Patterns** – Hourly & seasonal crime trends  
 3. **PCA Visualization** – 2D projection of crime features  
-4. **Model Performance** – MLflow experiment metrics  
 
 ---
 
